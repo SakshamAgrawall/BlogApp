@@ -58,5 +58,5 @@ npm run start
 ## 🛠 Skills
  HTML | CSS | JavaScript | ReactJs | nodejs | express | BootStrap
  
-## NOTE 
- This project is  made by me its not for production purpose this is only for learning purpose for better understanding of frontend and Backend technology
+## AWS EC2
+- I also deploy my project in AWS EC2 for understanding the AWS EC2 where i first make an instance of window because aws provides us to a remote computer access so it is also easy for me so i aws i first get access of remote computer where i install node js and then copy my file to the aws ec2 instance then i start my project local bute there i only deploy my react project instead of deploying my full stack becuase i forget to make env file of react_APP_APi so i had to change change all i just deploy only react api and in securtiy section i give the port addrress for accessing aws url out and this way i use aws i can do so many thinks with aws but at the sort of time i just use my react application to deploy and for data base i use mongo db cluster which provide the db cloud of mongidb users.
