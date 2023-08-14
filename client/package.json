@@ -1,6 +1,5 @@
 {
   "name": "client",
-  "proxy": "https://blogbackend-4nyj.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
